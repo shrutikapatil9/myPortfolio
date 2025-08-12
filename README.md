@@ -40,18 +40,6 @@ my-portfolio/
 │   └── styles/         # Styling (Tailwind config, custom CSS)
 └── README.md
 ```
-📦 Installation & Setup
-Clone this repository and install dependencies:
-
-git clone https://github.com/YOUR_USERNAME/myPortfolio.git
-cd myPortfolio
-npm install
-
-Run locally:
-npm start
-
-Build for production:
-npm run build
 
 🧑‍💻 Author
 Shrutika Patil
