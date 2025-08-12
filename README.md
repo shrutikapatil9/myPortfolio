@@ -7,7 +7,7 @@ It’s built with modern web technologies and highlights my projects, skills, an
 ---
 
 ## 🚀 Live Demo
-[**View Portfolio**](#https://portfoliosp09.netlify.app/)
+[**View Portfolio**](https://portfoliosp09.netlify.app/) 
 
 ---
 
