@@ -13,7 +13,7 @@ export default function Hero() {
 
       {/* Profile image */}
       <img
-        src="photo.jpg"
+        src="newpic.jpg"
         alt="Shrutika Patil"
         className="w-40 h-40 rounded-full border-4 border-blue-600 shadow-lg object-cover mb-6"
       />

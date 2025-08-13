@@ -3,15 +3,15 @@ import React from "react";
 const projects = [
   {
     title: "Movie Search App",
-    image: "ss1.png",
+    image: "ss3.png",
     description: "A sleek and user-friendly app that lets you search for movies using the OMDb API. Quickly find detailed info, posters, and ratings for your favorite films—all in one place.",
     tech: "React, Node.js, OMDb API",
-    live: "hhttps://shrutikapatil9.github.io/moviesearch-app/",
+    live: "https://shrutikapatil9.github.io/moviesearch-app/",
     github: "https://github.com/shrutikapatil9/moviesearch-app",
   },
   {
     title: "Shopping Site",
-    image: "movie.png",
+    image: "ss1.png",
     description: "A stylish single-page fashion shopping website built with React. Users can browse products and add them to a wishlist.",
     tech: "React.js, Node.js, CSS",
     live: "https://onlinestore090.netlify.app/",
